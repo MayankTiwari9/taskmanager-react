@@ -64,11 +64,3 @@ margin: auto;
     padding: 20px;
     border-radius: 10px;
 }
-.error{
-    display: flex;
-    justify-content: center;
-    margin: auto;
-    margin-top: 5vmax;
-    font-size: 20px;
-    color: red;
-}
